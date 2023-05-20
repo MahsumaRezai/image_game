@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0% auto;
+  gap: 30px; }
+
+.input {
+  width: 500px;
+  height: 50px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 10px 1px 10px 10px maroon; }
+
+.text {
+  font-family: sans-serif;
+  font-size: 50px;
+  text-shadow: 3px 3px maroon;
+  margin-top: 200px;
+  padding-left: 20px; }
+
+.buton {
+  width: 200px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background: maroon;
+  color: white;
+  font-size: 20px;
+  box-shadow: 10px 10px 10px 10px gainsboro; }
